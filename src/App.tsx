@@ -1,11 +1,12 @@
 import React from "react";
 
+import GlobalStyles from "./style/global";
+
 function App() {
-  return (
-    <div className="App">
-      <h1>Hello Framer Motion</h1>
-    </div>
-  );
+  return;
+  <>
+    <GlobalStyles />
+  </>;
 }
 
 export default App;
