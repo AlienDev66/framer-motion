@@ -3,9 +3,10 @@ import React from "react";
 import GlobalStyles from "./style/global";
 
 function App() {
-  return;
-  <>
-    <GlobalStyles />
-  </>;
+  return (
+    <>
+      <GlobalStyles />
+    </>
+  );
 }
 export default App;
